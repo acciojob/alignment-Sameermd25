@@ -1,24 +1,22 @@
 /*  your css code here. If applicable */
 /*table-1*/
-#t11, .t11 {
-    border: 1px solid black;
-    padding: 1px;
-    text-align: left;
+#t11{
+	text-align: left;
 }
-
-#t12, .t12 {
-    border: 1px solid black;
-    padding: 1px;
+#t12{
+	text-align: center;
+}
+#t13{
+	text-align: right;
+}
+.center {
     text-align: center;
 }
-
-#t13, .t13 {
-    border: 1px solid black;
-    padding: 1px;
+.right {
     text-align: right;
 }
 
-table{
+.middle{
 	border-collapse:collapse;
 }
 h1{
@@ -28,6 +26,7 @@ h1{
 /*table-2*/
 td{
 	border:1px solid black;
+	padding:1px;
 }
 
 /*table-3*/
