@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+/*table-1*/
+#t11, .t11 {
+    border: 1px solid black;
+    padding: 1px;
+    text-align: left;
+}
+
+#t12, .t12 {
+    border: 1px solid black;
+    padding: 1px;
+    text-align: center;
+}
+
+#t13, .t13 {
+    border: 1px solid black;
+    padding: 1px;
+    text-align: right;
+}
+
+table{
+	border-collapse:collapse;
+}
+h1{
+	text-align:center;
+}
+
+/*table-2*/
+td{
+	border:1px solid black;
+}
+
+/*table-3*/
+.green{
+	background-color:green;
+}
+.blue{
+	background-color:blue;
+}
